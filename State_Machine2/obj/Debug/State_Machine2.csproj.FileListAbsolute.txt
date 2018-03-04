@@ -1,0 +1,10 @@
+C:\Users\mazha\Desktop\Lab1_1\State_Machine2\bin\Debug\State_Machine2.exe.config
+C:\Users\mazha\Desktop\Lab1_1\State_Machine2\bin\Debug\State_Machine2.exe
+C:\Users\mazha\Desktop\Lab1_1\State_Machine2\bin\Debug\State_Machine2.pdb
+C:\Users\mazha\Desktop\Lab1_1\State_Machine2\obj\Debug\State_Machine2.Form1.resources
+C:\Users\mazha\Desktop\Lab1_1\State_Machine2\obj\Debug\State_Machine2.Properties.Resources.resources
+C:\Users\mazha\Desktop\Lab1_1\State_Machine2\obj\Debug\State_Machine2.csproj.GenerateResource.Cache
+C:\Users\mazha\Desktop\Lab1_1\State_Machine2\obj\Debug\State_Machine2.csproj.CoreCompileInputs.cache
+C:\Users\mazha\Desktop\Lab1_1\State_Machine2\obj\Debug\State_Machine2.exe
+C:\Users\mazha\Desktop\Lab1_1\State_Machine2\obj\Debug\State_Machine2.pdb
+C:\Users\mazha\Desktop\Lab1_1\State_Machine2\obj\Debug\State_Machine2.csprojResolveAssemblyReference.cache
